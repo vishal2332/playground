@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# since variables are denoted by $ dollar sign if you need to print doolar $ sign you need to use backslash. The backslash allowed the shell script to interpret the dollar sign as an actual# dollar sign and not a variable 
+echo "the cost of the item is \$15"
+echo "this is \#24"
+echo "this is \@"
+

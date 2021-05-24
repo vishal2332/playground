@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 2 root root 4096 May 12 19:12 .
+drwxr-xr-x 5 root root 4096 May 12 04:31 ..
+-rwxr-xr-x 1 root root  152 May 12 19:12 command-substitution-0
+-rw-r--r-- 1 root root    0 May 12 19:12 log.120521
+-rwxr-xr-x 1 root root  311 May 12 18:48 specialcharacters
+-rwxr-xr-x 1 root root  127 May 12 18:43 variables-0
+-rwxr-xr-x 1 root root  163 May 12 18:55 variables-1
+-rwxr-xr-x 1 root root  124 May 12 19:03 variables-2

@@ -1,0 +1,6 @@
+#!/bin/bash
+#command subsutituion basic example
+testing=$(date)
+echo "the date and time are: "  $testing
+today=$(date +%d%m%y)
+ls $pwd -al > log.$today
